@@ -10,5 +10,5 @@ setup (
     author_email = "Karlvbutz@gmail.com",
     url = "",
 	data_files = [],
-	py_modules = ['HIDInterface']
+	py_modules = ['FileConv']
     )
